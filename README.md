@@ -61,9 +61,9 @@ Y= A⊕B
 
 5.	For different input combinations generate the timing diagram.
 
-```
 ````
-`````
+````
+````
 ````
 **PROGRAM**
 
