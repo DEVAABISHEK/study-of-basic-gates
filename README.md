@@ -1,4 +1,4 @@
-### Ex No - 1: study-of-basic-gates
+## Ex No - 1: study-of-basic-gates
 
 **AIM:** 
 
@@ -93,5 +93,5 @@ endmodule
 ![Screenshot 2025-03-07 140220](https://github.com/user-attachments/assets/0b64d2ed-26d9-45cb-92d2-62138bb749c6)
 
 **Result:**
-
+Thus the truth table of logic gates in Quartus II using verilog programming is verified.
 
