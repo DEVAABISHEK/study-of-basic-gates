@@ -6,7 +6,7 @@ To study and verify the truth table of logic gates in Quartus II using Verilog p
 
 **Equipments Required:**
 
-Software – Quartus prime 
+Software – Quartus prime , modelsim-Altera
 
 **Theory**
 
@@ -61,7 +61,9 @@ Y= A⊕B
 
 5.	For different input combinations generate the timing diagram.
 
-
+###
+###
+###
 **PROGRAM**
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
